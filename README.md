@@ -21,7 +21,7 @@
 
 ---
 
-Hey, I’m Kanishk — a developer who likes building fast systems, breaking them, and then making them even better. I’ve worked across **full‑stack**, **DevOps**, and **AI/ML**, with projects ranging from real‑time data pipelines to GenAI‑based extraction systems. Lately, I’ve been diving deeper into **agentic AI** and how systems can move from just responding to actually acting. I’ve spent a lot of time in hackathons (both participating and organizing), so I enjoy high‑pressure problem solving and working with driven people.
+Hey, I’m Kanishk, a developer who likes building fast systems, breaking them, and then making them even better. I’ve worked across **full‑stack**, **DevOps**, and **AI/ML**, with projects ranging from real‑time data pipelines to GenAI‑based extraction systems. Lately, I’ve been diving deeper into **agentic AI** and how systems can move from just responding to actually acting. I’ve spent a lot of time in hackathons (both participating and organizing), so I enjoy high‑pressure problem solving and working with driven people.
 
 If you’re building something interesting, I’d love to hear about it! =)
 
